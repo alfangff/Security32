@@ -1,0 +1,9 @@
+{
+	"ip":"Play.survivalnet.tk",
+	"port": "11350",
+	"name": "security59",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register  security6890 security6890",
+	"login-cmd":"/login security6890"
+}
